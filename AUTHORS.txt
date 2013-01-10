@@ -1,0 +1,6 @@
+Python-Solr was originally written by Andrew Montalenti. Since its
+release, it has benefitted from contributions by:
+
+Didier Deshommes : current maintainer
+Aaron Raddon : fixes to #6, #7
+Keith Bourgoin : Using urljoin to combine url and path
